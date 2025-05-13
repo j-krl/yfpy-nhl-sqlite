@@ -1,5 +1,8 @@
 # yfpy-nhl-sqlite
 
+[![PyPI - Version](https://img.shields.io/pypi/v/yfpy-nhl-sqlite)](https://pypi.org/project/yfpy-nhl-sqlite)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/yfpy-nhl-sqlite)](https://pypi.org/project/yfpy-nhl-sqlite)
+
 Create a SQLite database from your Yahoo NHL fantasy league data in minutes.
 
 View the [schema](yfpy_nhl_sqlite/schema.sql) to see what data is stored.
